@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+/* Window and Body Styles */
+
+html {
+   background-color: cornsilk;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    color: black;
+    opacity: 0.71;
+    font-weight: 500;
+    font-size: 2em;
+    padding: 25px;
+    text-align: center;
+}
